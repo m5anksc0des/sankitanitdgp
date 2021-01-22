@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on *Flutter dev apps*
 
-- 🌱 I’m currently learning *Android Studio, Java*
+- 🌱 I’m currently learning *python libraries for ML*
 
 - 👨‍💻 All of my projects are available at [https://github.com/SubhamKarmakar24?tab=repositories](https://github.com/SubhamKarmakar24?tab=repositories)
 
@@ -23,7 +23,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/sankitanitdgp-37867419a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sankita-37867419a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sankita28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sankita-37867419a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
