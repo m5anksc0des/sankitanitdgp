@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *python libraries for ML*
 
-- 👨‍💻 All of my projects are available at [https://github.com/SubhamKarmakar24?tab=repositories](https://github.com/SubhamKarmakar24?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/sankitanitdgp?tab=repositories](https://github.com/sankitanitdgp?tab=repositories)
 
 - 💬 Ask me about *Software Development*
 
