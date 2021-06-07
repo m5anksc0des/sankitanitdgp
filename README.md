@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankitanitdgp" alt="sankitanitdgp" /> </p>
 
-- 🔭 I’m currently working on *Flutter dev apps*
+- 🔭 I’m currently working on *Node.js*
 
-- 🌱 I’m currently learning *python libraries for ML*
+- 🌱 I’m currently learning *react.js*
 
 - 👨‍💻 All of my projects are available at [https://github.com/sankitanitdgp?tab=repositories](https://github.com/sankitanitdgp?tab=repositories)
 
