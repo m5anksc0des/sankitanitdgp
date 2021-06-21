@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *react.js*
 
-- 👨‍💻 All of my projects are available at [https://github.com/sankitanitdgp?tab=repositories](https://github.com/sankitanitdgp?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/sankitanitdgp?tab=projects]
 
 - 💬 Ask me about *Software Development*
 
