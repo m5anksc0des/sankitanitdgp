@@ -1,16 +1,16 @@
 
-<h1 align="center">Hi 👋, I'm Sankita </h1>
+<h1 align="center">Hi 👋, I'm Sankita !</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankitanitdgp" alt="sankitanitdgp" /> </p>
 
-- 🔭 I’m currently working on *Node.js*
+- 🔭 I’m currently working on *Networking in Python*
 
-- 🌱 I’m currently learning *react.js*
+- 🌱 I’m currently learning *Socket Programming*
 
 - 👨‍💻 All of my projects are available at [https://github.com/sankitanitdgp?tab=projects]
 
-- 💬 Ask me about *Software Development*
+- 💬 Ask me about *Software Development, Devops, Networking, CyberSecurity*
 
 
 <p>
