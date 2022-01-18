@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Sankita !</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer, working on making the web safer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankitanitdgp" alt="sankitanitdgp" /> </p>
 
-- 🔭 I’m currently working on *Networking in Python*
+- 🔭 I’m currently working on *Networking in Python, Containerization Technologies*
 
-- 🌱 I’m currently learning *Socket Programming*
+- 🌱 I’m currently learning *NLP, AWS, SDLC*
 
 - 👨‍💻 All of my projects are available at [https://github.com/sankitanitdgp?tab=projects]
 
