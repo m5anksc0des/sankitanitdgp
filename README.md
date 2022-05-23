@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *NLP, AWS, SDLC*
 
-- 👨‍💻 All of my projects are available at [https://github.com/sankitanitdgp?tab=projects]
+- 👨‍💻 All of my projects are available at [here](https://github.com/sankitanitdgp?tab=projects)
 
 - 💬 Ask me about *Software Development, Devops, Networking, CyberSecurity*
 
