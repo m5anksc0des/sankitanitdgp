@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankitanitdgp" alt="sankitanitdgp" /> </p>
 
-- 🔭 I’m currently working on *Networking in Python, Containerization Technologies*
+- 🔭 I’m currently working on *building Spider-bot using php*
 
-- 🌱 I’m currently learning *NLP, AWS, SDLC*
+- 🌱 I’m have worked with *CNN, AWS, SDLC, Networking in Python, Containerization Technologies*
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/sankitanitdgp?tab=projects&type=classic)
 
-- 💬 Ask me about *Software Development, Devops, Networking, CyberSecurity*
+- 💬 Ask me about *Software Development, Devops, Cloud Certifications, CyberSecurity*
 
 
 <p>
